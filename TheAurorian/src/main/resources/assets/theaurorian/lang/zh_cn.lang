@@ -1,9 +1,11 @@
 container.theaurorian.moonlightforge=月光融锻
 container.theaurorian.scrapper=粉碎器
+
 enchantment.theaurorian.lightning.desc=造成的伤害取决于你的护甲值
 enchantment.theaurorian.lightning=闪光
 enchantment.theaurorian.lightningresistance.desc=抵御闪光附魔造成的伤害
 enchantment.theaurorian.lightningresistance=光之抵抗
+
 entity.theaurorian.aurorianpig.name=极光猪
 entity.theaurorian.aurorianrabbit.name=极光兔
 entity.theaurorian.auroriansheep.name=极光羊
@@ -17,10 +19,12 @@ entity.theaurorian.spider.name=蛛母
 entity.theaurorian.spiderling.name=幼蛛
 entity.theaurorian.spirit.name=魂灵
 entity.theaurorian.undeadknight.name=不死骑士
+
 fluid.tamoltenauroriansteel=熔融极光钢
 fluid.tamoltencerulean=熔融晶蓝
 fluid.tamoltenmoonstone=熔融皎月石
 fluid.tamoonwater=月露
+
 item.theaurorian.absorptionorb.name=修损宝珠
 item.theaurorian.aurorianbacon.name=极光培根
 item.theaurorian.auroriancoal.name=极光煤炭
@@ -33,7 +37,7 @@ item.theaurorian.aurorianpork.name=生极光猪排
 item.theaurorian.aurorianporkcooked.name=熟极光猪排
 item.theaurorian.aurorianportalframebrick.name=极光砖
 item.theaurorian.aurorianslimeball.name=极光粘液球
-item.theaurorian.aurorianslimeboots.name=极光史莱姆靴子
+item.theaurorian.aurorianslimeboots.name=极光粘液靴子
 item.theaurorian.auroriansteel.name=极光钢锭
 item.theaurorian.auroriansteelaxe.name=极光钢斧
 item.theaurorian.auroriansteelboots.name=极光钢靴子
@@ -78,7 +82,7 @@ item.theaurorian.knighthelmet.name=骑士头盔
 item.theaurorian.knightleggings.name=骑士护腿
 item.theaurorian.lavender.name=薰衣草
 item.theaurorian.lavenderbread.name=薰衣草面包
-item.theaurorian.lavenderseeds.name=薰衣草种子
+item.theaurorian.lavenderseeds.name=薰衣草籽
 item.theaurorian.livingdiviningrod.name=生命占卜权杖
 item.theaurorian.locator.name=地牢定位器
 item.theaurorian.lockpicks.name=开锁器
@@ -128,18 +132,25 @@ item.theaurorian.umbrapickaxe.name=本影镐
 item.theaurorian.umbrashield.name=本影盾牌
 item.theaurorian.umbrasword.name=本影剑
 item.theaurorian.weepingwillowsap.name=垂柳树液
+
 itemGroup.theaurorian=极光幽境
+
 material.auroriansteel.name=极光钢
 material.aurorianstone.name=极光石
 material.cerulean.name=晶蓝
 material.moonstone.name=皎月石
 material.silentwood.name=谧木
+
 modifier.aurorianempowered.desc=§o极光涌流之力！§r\n在极光幽境中工具速度更快。！
 modifier.aurorianempowered.name=极光之赐
-modifier.conarmmoonlit_armor.desc=§o它是个夜猫子！§r\n在夜晚有50%的机会不消耗耐久，但在白天有50%的机会消耗更多耐久！
+modifier.conarmmoonlit_armor.desc=§o它是个夜猫子！§r\n在夜晚有 50% 的机会不消耗耐久，但在白天有 50% 的机会消耗更多耐久！
 modifier.conarmmoonlit_armor.name=月辉
-modifier.tamoonlit.desc=§o它是个夜猫子！§r\n在夜晚有50%的机会不消耗耐久，但在白天有50%的机会消耗更多耐久！
+modifier.tamoonlit.desc=§o它是个夜猫子！§r\n在夜晚有 50% 的机会不消耗耐久，但在白天有 50% 的机会消耗更多耐久！
 modifier.tamoonlit.name=月辉
+
+patchouli.theaurorian.guide.desc=关于本模组你所需要知道的一切！
+patchouli.theaurorian.guide.name=极光幽境指南
+
 string.theaurorian.block.dungeonstonekeyhole1=我需要一把钥匙
 string.theaurorian.block.dungeonstonekeyhole2=或者一个开锁器
 string.theaurorian.gui.moonlightforge.nomoonlight=没有检测到月光！
@@ -165,7 +176,7 @@ string.theaurorian.tooltip.crystallinepickaxe=矿石不仅会掉落矿物锭，�
 string.theaurorian.tooltip.crystallineshield=脱战时修复你的主手物品！
 string.theaurorian.tooltip.crystallinesword=充能！发射水晶光束！
 string.theaurorian.tooltip.dungeonstonegate1=只能放置一个
-string.theaurorian.tooltip.dungeonstonegate2=方块远离门锁孔的X轴或Z轴！
+string.theaurorian.tooltip.dungeonstonegate2=方块远离门锁孔的 X 轴或 Z 轴！
 string.theaurorian.tooltip.furnacechimney1=当放在极光熔炉上时，它加快了熔炼速度！每炉最大孔道数为
 string.theaurorian.tooltip.furnacechimney2=右键单击带有孔道的熔炉，它们会自动堆叠在顶部。
 string.theaurorian.tooltip.keydarkstone=用来解锁禁地……
@@ -192,13 +203,14 @@ string.theaurorian.tooltip.silentwoodpickaxe1=当前等级：
 string.theaurorian.tooltip.silentwoodpickaxe2=神奇的谧木使得工具在耐久低时会提高挖掘等级！
 string.theaurorian.tooltip.silentwoodstick=可以用来点火，也可以用来激活极光传送门。
 string.theaurorian.tooltip.silkberryjamsandwich=味道好极了！
-string.theaurorian.tooltip.spikedchestplate=在潜行时获得荆棘III。
+string.theaurorian.tooltip.spikedchestplate=在潜行时获得荆棘 III。
 string.theaurorian.tooltip.stickyspiker=使命中的实体中毒。
 string.theaurorian.tooltip.strangemeat=这么大一块肉，可有得一阵好嚼了！吃完之后获得一个随机的正面效果。
 string.theaurorian.tooltip.umbrapickaxe=选择一个区块挖掘，可以提高挖掘速度，但需要花费大量耐久。
 string.theaurorian.tooltip.umbrashield=成功格挡对方攻击时，点燃对方。一段时间内格挡过多会造成过热！
 string.theaurorian.tooltip.umbrasword=以虚弱和缓慢为代价，给你短暂的生命恢复！
 string.theaurorian.tooltip.weepingwillowsap=去除你的中毒效果，但却会使你迟缓。
+
 tile.tamoonwater.name=月露
 tile.theaurorian.auroriancoalblock.name=极光煤炭块
 tile.theaurorian.auroriancoalore.name=极光煤矿石
