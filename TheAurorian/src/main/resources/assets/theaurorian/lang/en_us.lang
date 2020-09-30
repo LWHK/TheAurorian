@@ -1,11 +1,9 @@
 container.theaurorian.moonlightforge=Moonlight Forge
 container.theaurorian.scrapper=Scrapper
-
 enchantment.theaurorian.lightning.desc=Does extra damage depending on how much armor the target is wearing
 enchantment.theaurorian.lightning=Lightning
 enchantment.theaurorian.lightningresistance.desc=Negates damage that would have been done by lightning enchantment
 enchantment.theaurorian.lightningresistance=Lightning Resistance
-
 entity.theaurorian.aurorianpig.name=Aurorian Pig
 entity.theaurorian.aurorianrabbit.name=Aurorian Rabbit
 entity.theaurorian.auroriansheep.name=Aurorian Sheep
@@ -19,12 +17,10 @@ entity.theaurorian.spider.name=Spider Mother
 entity.theaurorian.spiderling.name=Spiderling
 entity.theaurorian.spirit.name=Spirit
 entity.theaurorian.undeadknight.name=Undead Knight
-
 fluid.tamoltenauroriansteel=Molten Aurorian Steel
 fluid.tamoltencerulean=Molten Cerulean
 fluid.tamoltenmoonstone=Molten Moonstone
 fluid.tamoonwater=Moonwater
-
 item.theaurorian.absorptionorb.name=Orb of Absorption
 item.theaurorian.aurorianbacon.name=Aurorian Bacon
 item.theaurorian.auroriancoal.name=Aurorian Coal
@@ -117,6 +113,8 @@ item.theaurorian.silkberry.name=Silkberry
 item.theaurorian.silkberryjam.name=Silkberry Jam
 item.theaurorian.silkberryjamsandwich.name=Silkberry Jam Sandwich
 item.theaurorian.silkshroomstew.name=Silkshroom Stew
+item.theaurorian.soullessflesh.name=Soulless Flesh
+item.theaurorian.spectralsilk.name=Spectral Silk
 item.theaurorian.spikedchestplate.name=Spiked Chestplate
 item.theaurorian.stickyspiker.name=Sticky Spiker
 item.theaurorian.strangemeat.name=Strange Meat
@@ -132,25 +130,18 @@ item.theaurorian.umbrapickaxe.name=Umbra Pickaxe
 item.theaurorian.umbrashield.name=Umbra Shield
 item.theaurorian.umbrasword.name=Umbra Sword
 item.theaurorian.weepingwillowsap.name=Weeping Willow Sap
-
 itemGroup.theaurorian=The Aurorian
-
 material.auroriansteel.name=Aurorian Steel
 material.aurorianstone.name=Aurorian Stone
 material.cerulean.name=Cerulean
 material.moonstone.name=Moonstone
 material.silentwood.name=Silentwood
-
 modifier.aurorianempowered.desc=§oPower of The Aurorian flows!§r\nIt's faster in The Aurorian.
 modifier.aurorianempowered.name=Aurorian Empowered
 modifier.conarmmoonlit_armor.desc=§oIt's a Nightowl!§r\nHas a 50% chance to not take duribility when it's night but 50% to take more during the day!
 modifier.conarmmoonlit_armor.name=Moonlit
 modifier.tamoonlit.desc=§oIt's a Nightowl!§r\nHas a 50% chance to not take duribility when it's night but 50% to take more during the day!
 modifier.tamoonlit.name=Moonlit
-
-patchouli.theaurorian.guide.desc=Everything you need to know about this mod and how to progress!
-patchouli.theaurorian.guide.name=The Aurorian Guide
-
 string.theaurorian.block.dungeonstonekeyhole1=I need a key
 string.theaurorian.block.dungeonstonekeyhole2=or a lockpick
 string.theaurorian.gui.moonlightforge.nomoonlight=No Moonlight Detected!
@@ -168,10 +159,12 @@ string.theaurorian.tooltip.aurorianitesword=Has the ability to levitate everyone
 string.theaurorian.tooltip.aurorianporkcooked=Purple, but still tasty!
 string.theaurorian.tooltip.aurorianslimeboots=Jump while sneaking to do an extra high jump! Also blocks fall damage.
 string.theaurorian.tooltip.auroriansteeltools=Enchantments on this item will level up over time!
+string.theaurorian.tooltip.auroriansteeltools.nextenchant=Next Enchantment: 
+string.theaurorian.tooltip.auroriansteeltools.noenchants=No enchants found or they're max level!
 string.theaurorian.tooltip.aurorianstoneaxe=Aurorian Stone can fell whole Silentwood Trees at the cost of extra durability!
 string.theaurorian.tooltip.aurorianstonepickaxe=Aurorian Stone has a chance to heal itself when mining Aurorian Stone!
 string.theaurorian.tooltip.bepsi=How'd this get here??
-string.theaurorian.tooltip.crystal=Can be placed!
+string.theaurorian.tooltip.crystal=Place on scrapper to speed it up! Has a chance to break every craft.
 string.theaurorian.tooltip.crystallinepickaxe=Ores drop ingots plus a few nuggets!
 string.theaurorian.tooltip.crystallineshield=Will repair items in your mainhand when blocking attacks!
 string.theaurorian.tooltip.crystallinesword=Charge up to fire a Crystalline Beam!
@@ -188,7 +181,7 @@ string.theaurorian.tooltip.lavender=Got from breaking lavender plants with a sic
 string.theaurorian.tooltip.lavenderseeds=Got from lavender in the crafting table.
 string.theaurorian.tooltip.livingdiviningrod=Has a chance to highlight nearby entities!
 string.theaurorian.tooltip.locator=Locates nearby Aurorian dungeons.
-string.theaurorian.tooltip.locator=Used to locate dungeons. Sneak-click to switch modes.
+string.theaurorian.tooltip.locator=Used to locate dungeons. Sneak-click to switch modes. Requires particles to be on!
 string.theaurorian.tooltip.lockpicks=Used to pick Runestone Gates. High chance of breaking.
 string.theaurorian.tooltip.moongem=Found on Moon Temple pillar islands, used for crafting Moon Temple keys.
 string.theaurorian.tooltip.moonshield=Hold block to Charge at foes and knock them up in the air!
@@ -210,7 +203,6 @@ string.theaurorian.tooltip.umbrapickaxe=Select a block to gain bonus mining spee
 string.theaurorian.tooltip.umbrashield=Lights whoever is in front of you on fire when blocking! Blocking for too long will cause it to overheat.
 string.theaurorian.tooltip.umbrasword=Gives you a short boost of health at the cost of weakness and slowness!
 string.theaurorian.tooltip.weepingwillowsap=Will cleanse poison but gives you slowness.
-
 tile.tamoonwater.name=Moonwater
 tile.theaurorian.auroriancoalblock.name=Aurorian Coal Block
 tile.theaurorian.auroriancoalore.name=Aurorian Coal Ore

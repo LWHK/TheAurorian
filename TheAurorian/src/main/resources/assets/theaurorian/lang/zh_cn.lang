@@ -1,11 +1,9 @@
-container.theaurorian.moonlightforge=月光融锻
+﻿container.theaurorian.moonlightforge=月光融锻
 container.theaurorian.scrapper=粉碎器
-
 enchantment.theaurorian.lightning.desc=造成的伤害取决于你的护甲值
 enchantment.theaurorian.lightning=闪光
 enchantment.theaurorian.lightningresistance.desc=抵御闪光附魔造成的伤害
 enchantment.theaurorian.lightningresistance=光之抵抗
-
 entity.theaurorian.aurorianpig.name=极光猪
 entity.theaurorian.aurorianrabbit.name=极光兔
 entity.theaurorian.auroriansheep.name=极光羊
@@ -19,12 +17,10 @@ entity.theaurorian.spider.name=蛛母
 entity.theaurorian.spiderling.name=幼蛛
 entity.theaurorian.spirit.name=魂灵
 entity.theaurorian.undeadknight.name=不死骑士
-
 fluid.tamoltenauroriansteel=熔融极光钢
 fluid.tamoltencerulean=熔融晶蓝
 fluid.tamoltenmoonstone=熔融皎月石
 fluid.tamoonwater=月露
-
 item.theaurorian.absorptionorb.name=修损宝珠
 item.theaurorian.aurorianbacon.name=极光培根
 item.theaurorian.auroriancoal.name=极光煤炭
@@ -117,6 +113,8 @@ item.theaurorian.silkberry.name=桑葚
 item.theaurorian.silkberryjam.name=桑葚酱
 item.theaurorian.silkberryjamsandwich.name=桑葚酱三明治
 item.theaurorian.silkshroomstew.name=桑葚煲
+item.theaurorian.soullessflesh.name=Soulless Flesh
+item.theaurorian.spectralsilk.name=Spectral Silk
 item.theaurorian.spikedchestplate.name=尖钉胸甲
 item.theaurorian.stickyspiker.name=粘性尖钉
 item.theaurorian.strangemeat.name=怪异的肉
@@ -132,25 +130,18 @@ item.theaurorian.umbrapickaxe.name=本影镐
 item.theaurorian.umbrashield.name=本影盾牌
 item.theaurorian.umbrasword.name=本影剑
 item.theaurorian.weepingwillowsap.name=垂柳树液
-
 itemGroup.theaurorian=极光幽境
-
 material.auroriansteel.name=极光钢
 material.aurorianstone.name=极光石
 material.cerulean.name=晶蓝
 material.moonstone.name=皎月石
 material.silentwood.name=谧木
-
 modifier.aurorianempowered.desc=§o极光涌流之力！§r\n在极光幽境中工具速度更快。！
 modifier.aurorianempowered.name=极光之赐
 modifier.conarmmoonlit_armor.desc=§o它是个夜猫子！§r\n在夜晚有 50% 的机会不消耗耐久，但在白天有 50% 的机会消耗更多耐久！
 modifier.conarmmoonlit_armor.name=月辉
 modifier.tamoonlit.desc=§o它是个夜猫子！§r\n在夜晚有 50% 的机会不消耗耐久，但在白天有 50% 的机会消耗更多耐久！
 modifier.tamoonlit.name=月辉
-
-patchouli.theaurorian.guide.desc=关于本模组你所需要知道的一切！
-patchouli.theaurorian.guide.name=极光幽境指南
-
 string.theaurorian.block.dungeonstonekeyhole1=我需要一把钥匙
 string.theaurorian.block.dungeonstonekeyhole2=或者一个开锁器
 string.theaurorian.gui.moonlightforge.nomoonlight=没有检测到月光！
@@ -168,6 +159,8 @@ string.theaurorian.tooltip.aurorianitesword=让周围的人与我一同漂浮！
 string.theaurorian.tooltip.aurorianporkcooked=虽泛紫意，但鲜嫩多汁！
 string.theaurorian.tooltip.aurorianslimeboots=潜行时起跳可以跳得更高，并且还能消除摔落伤害。
 string.theaurorian.tooltip.auroriansteeltools=随着时间的推移，此物品上的附魔会升级！
+string.theaurorian.tooltip.auroriansteeltools.nextenchant=Next Enchantment: 
+string.theaurorian.tooltip.auroriansteeltools.noenchants=No enchants found or they're max level!
 string.theaurorian.tooltip.aurorianstoneaxe=以消耗额外的耐久为代价，砍倒整棵谧木树！
 string.theaurorian.tooltip.aurorianstonepickaxe=开采极光石时，有机会恢复自身耐久。
 string.theaurorian.tooltip.bepsi=哪来的山寨货？？
@@ -187,7 +180,6 @@ string.theaurorian.tooltip.keyrunestoneloot=用来开启符石地牢宝藏室。
 string.theaurorian.tooltip.lavender=通过破坏薰衣草获得，或者自己种植。
 string.theaurorian.tooltip.lavenderseeds=在工作台上，从薰衣草中获取。
 string.theaurorian.tooltip.livingdiviningrod=有一定几率使周围实体发光！
-string.theaurorian.tooltip.locator=可用于定位周围的极光幽境地牢。
 string.theaurorian.tooltip.locator=用来定位地牢，潜行右键可以切换模式。
 string.theaurorian.tooltip.lockpicks=用来开启符石地牢，有可能损坏。
 string.theaurorian.tooltip.moongem=可在月宫柱岛找到这种宝石，用于制作月宫钥匙。
@@ -210,7 +202,6 @@ string.theaurorian.tooltip.umbrapickaxe=选择一个区块挖掘，可以提高�
 string.theaurorian.tooltip.umbrashield=成功格挡对方攻击时，点燃对方。一段时间内格挡过多会造成过热！
 string.theaurorian.tooltip.umbrasword=以虚弱和缓慢为代价，给你短暂的生命恢复！
 string.theaurorian.tooltip.weepingwillowsap=去除你的中毒效果，但却会使你迟缓。
-
 tile.tamoonwater.name=月露
 tile.theaurorian.auroriancoalblock.name=极光煤炭块
 tile.theaurorian.auroriancoalore.name=极光煤矿石
